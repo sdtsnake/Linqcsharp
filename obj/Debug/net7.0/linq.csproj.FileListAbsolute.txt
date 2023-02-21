@@ -1,0 +1,15 @@
+C:\Users\snake\Documents\curso\linq\bin\Debug\net7.0\linq.exe
+C:\Users\snake\Documents\curso\linq\bin\Debug\net7.0\linq.deps.json
+C:\Users\snake\Documents\curso\linq\bin\Debug\net7.0\linq.runtimeconfig.json
+C:\Users\snake\Documents\curso\linq\bin\Debug\net7.0\linq.dll
+C:\Users\snake\Documents\curso\linq\bin\Debug\net7.0\linq.pdb
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.csproj.AssemblyReference.cache
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.AssemblyInfoInputs.cache
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.AssemblyInfo.cs
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.dll
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\refint\linq.dll
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.pdb
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\linq.genruntimeconfig.cache
+C:\Users\snake\Documents\curso\linq\obj\Debug\net7.0\ref\linq.dll
